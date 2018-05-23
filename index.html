@@ -1,10 +1,41 @@
 ---
 layout: home
+hide_search: true
 ---
 
+<div class='text-center'>
+    <h1>{{ site.title }}</h1>
 
-{% for item in site.topic %}
-  <h2>{{ item.title }}</h2>
-  <p>{{ item.description }}</p>
-  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
-{% endfor %}
+    <p class="lead">A Jargonbuster for people that work with techies.</p>
+
+</div>
+
+<div class='row'>
+    <div class='col d-flex flex-row justify-content-center'>
+        <div class="input-group mb-3" style='max-width: 400px;'>
+            <input type="text" class="form-control" placeholder="E.g. React" aria-label="Recipient's username" aria-describedby="basic-addon2">
+            <div class="input-group-append">
+                <button class="btn btn-outline-secondary" type="button">Search</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+<br />
+
+<h4 class='text-center'>Topics</h4>
+
+<div class='row'>
+    <div class='col'>
+        <div class='d-flex flex-row justify-content-around flex-wrap'>
+        {% for item in site.topic %}
+            <span class='badge badge-primary text-light' style='margin: 4px;'>
+                <a href="{{ item.url }}">
+                    <span class='text-light'>{{ item.title }}</span>
+                </a>
+            </span>
+        {% endfor %}
+        </div>
+    </div>
+</div>
