@@ -28,13 +28,9 @@ hide_search: true
 
 <div class='row'>
     <div class='col'>
-        <div class='d-flex flex-row justify-content-around flex-wrap'>
+        <div class='d-flex flex-row justify-content-around flex-wrap h4'>
         {% for item in site.topic %}
-            <span class='badge badge-primary text-light' style='margin: 4px;'>
-                <a href="{{ item.url }}">
-                    <span class='text-light'>{{ item.title }}</span>
-                </a>
-            </span>
+            <a class='badge badge-primary' href="{{ item.url }}" style='margin: 5px;'>{{ item.title }}</a>
         {% endfor %}
         </div>
     </div>
