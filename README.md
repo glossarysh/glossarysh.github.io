@@ -27,3 +27,5 @@ There are a few common sub-headings that you can choose to use when writing a to
 - Also known as. Similies for the topic. An article on 'Node.JS' might list 'Node'.
 
 Don't write things that aren't necessary for a non-technical person to grasp the topic. This is in no way meant to replace official documentation, Wikipedia or Stack Overflow.
+
+Many of the files in the `_topic` folder at the moment are either empty placeholders or rushed first attempts. Please do take a look if you feel that you can contribute.

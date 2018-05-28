@@ -1,7 +1,19 @@
 ---
 layout: default
 ---
+{% include nav.html %}
+    
+<br />
 
 <div class='container'>
+    <div class="card border-primary">
+        <div class="card-body">
+            <h1>{{ page.title }}</h1>
+            {% if page.website %}
+            <a class="card-link" href="{{ page.website }}" target="_blank">{{ page.website }}</a>
+            {% endif %}
+        </div>
+    </div>
+    <br />
     {{ content }}
 </div>

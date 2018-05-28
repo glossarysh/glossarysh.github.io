@@ -1,6 +1,7 @@
 ---
 layout: topic
-title: "Package Manager"
+title: "TypeScript"
+snippet: ""
 ---
 
 This topic is awaiting content. Open a pull request to contribute!

@@ -1,0 +1,12 @@
+---
+layout: null
+---
+[
+    {% for topic in site.topic %}
+    {
+        "title": "{{ topic.title | escape }}",
+        "url": "{{ topic.url }}",
+        "snippet": "{{ topic.snippet }}"
+    } {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+]

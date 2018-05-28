@@ -3,35 +3,31 @@ layout: home
 hide_search: true
 ---
 
-<div class='text-center'>
-    <h1>{{ site.title }}</h1>
+<div class="jumbotron">
+    <div class='text-center'>
+        <h1>{{ site.title }}</h1>
 
-    <p class="lead">A Jargonbuster for people that work with techies.</p>
+        <p class="lead">A Jargonbuster for people who work with techies.</p>
 
-</div>
+    </div>
 
-<div class='row'>
-    <div class='col d-flex flex-row justify-content-center'>
-        <div class="input-group mb-3" style='max-width: 400px;'>
-            <input type="text" class="form-control" placeholder="E.g. React" aria-label="Recipient's username" aria-describedby="basic-addon2">
-            <div class="input-group-append">
-                <button class="btn btn-outline-secondary" type="button">Search</button>
-            </div>
+    <div class='row'>
+        <div class='col d-flex flex-row justify-content-center'>
+            {% include search.html %}
         </div>
     </div>
 </div>
 
-<br />
-<br />
+<div class="container">
+    <h4 class='text-center'>Recently added</h4>
 
-<h4 class='text-center'>Topics</h4>
-
-<div class='row'>
-    <div class='col'>
-        <div class='d-flex flex-row justify-content-around flex-wrap h4'>
-        {% for item in site.topic %}
-            <a class='badge badge-primary' href="{{ item.url }}" style='margin: 5px;'>{{ item.title }}</a>
-        {% endfor %}
+    <div class='row'>
+        <div class='col'>
+            <div class='d-flex flex-row justify-content-around flex-wrap h4'>
+            {% for item in site.topic %}
+                <a class='badge badge-primary' href="{{ item.url }}" style='margin: 5px;'>{{ item.title }}</a>
+            {% endfor %}
+            </div>
         </div>
     </div>
 </div>

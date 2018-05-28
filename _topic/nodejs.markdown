@@ -3,7 +3,5 @@ layout: topic
 title: "Node.JS"
 ---
 
-# Node.JS
-
-This topic is awaiting content. Open a pull request to contribute!
+Node.JS is a platform that enables developers to build [server-side](client-server) applications using [JavaScript](javascript) as the programming language.
 
