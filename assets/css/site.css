@@ -17,7 +17,7 @@
 }
 
 .body-content {
-    min-height: 300px;
+    min-height: 400px;
 }
 
 .footer-github-image {
@@ -30,5 +30,13 @@
 }
 
 hr {
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    margin-bottom: 1rem;
+}
+
+.card-body h1 {
     margin-bottom: 0;
 }

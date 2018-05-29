@@ -24,7 +24,7 @@ hide_search: true
     <div class='row'>
         <div class='col'>
             <div class='d-flex flex-row justify-content-around flex-wrap h4'>
-            {% for item in site.topic %}
+            {% for item in site.topic limit: 15 %}
                 <a class='badge badge-primary' href="{{ item.url }}" style='margin: 5px;'>{{ item.title }}</a>
             {% endfor %}
             </div>

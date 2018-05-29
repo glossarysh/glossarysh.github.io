@@ -1,5 +1,7 @@
 # Jargonthing
-This is a project that aims to demistify tech jargon for people who work with developers. Each article should be:
+This is a project that aims to demistify tech jargon for people who work with developers. The target reader is therefore a non-technical individual who wishes to get a better understanding of a buzz word or topic that they have come across, either in their professional life or otherwise. It is not trying to be an authoritive source or teaching material for someone intending to seriously learn a topic
+
+Each article should be:
 - Written in simple, non-technical language.
 - Self-contained.
 - Consistently formatted.
