@@ -40,3 +40,11 @@ hr {
 .card-body h1 {
     margin-bottom: 0;
 }
+
+.side-nav {
+    flex-flow: column nowrap;
+}
+
+.side-nav-active {
+    padding-left: 4px;
+}
