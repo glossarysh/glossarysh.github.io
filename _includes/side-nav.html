@@ -1,0 +1,3 @@
+{% for item in site.topic limit: 15 %}
+    <a class='badge badge-primary' href="{{ item.url }}" style='margin: 5px;'>{{ item.title }}</a>
+{% endfor %}
