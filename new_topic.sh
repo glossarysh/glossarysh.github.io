@@ -20,7 +20,7 @@ fi
 echo '---
 layout: topic
 title: "'$nice_name'"
-snippet: "'$snippet'"
+description: "'$snippet'"
 website: "'$website'"
 ---
 

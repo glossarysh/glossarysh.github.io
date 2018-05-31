@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Compiler"
-snippet: "A compiler is a program that transforms source code into instructions that a computer can execute."
+description: "A compiler is a program that transforms source code into instructions that a computer can execute."
 website: ""
 ---
 

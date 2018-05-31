@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Java"
-snippet: "Java is a programming language and set of related tools that allows a programmer to build cross platform applications."
+description: "Java is a programming language and set of related tools that allows a programmer to build cross platform applications."
 website: "https://www.oracle.com/java/index.html"
 ---
 

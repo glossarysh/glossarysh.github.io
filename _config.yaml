@@ -4,3 +4,5 @@ collections:
   topic:
     output: true
     permalink: /:name
+plugins:
+  - jekyll-seo-tag

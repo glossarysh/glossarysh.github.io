@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "VB.NET"
-snippet: "VB.NET is a programming language created by Microsoft for the .NET platform."
+description: "VB.NET is a programming language created by Microsoft for the .NET platform."
 website: "https://docs.microsoft.com/en-gb/dotnet/visual-basic/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Git"
-snippet: "Git is a computer program for storing and managing the files used to by programmers to make software."
+description: "Git is a computer program for storing and managing the files used to by programmers to make software."
 website: "https://git-scm.com/"
 ---
 

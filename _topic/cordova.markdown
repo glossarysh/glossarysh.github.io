@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Cordova"
-snippet: "Cordova is a set of tools that make it possible to build mobile applications using web technologies."
+description: "Cordova is a set of tools that make it possible to build mobile applications using web technologies."
 website: "https://cordova.apache.org/"
 ---
 

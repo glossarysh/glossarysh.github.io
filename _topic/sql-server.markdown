@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "SQL Server"
-snippet: "SQL Server is a database product releasesd by Microsoft."
+description: "SQL Server is a database product releasesd by Microsoft."
 website: "https://www.microsoft.com/en-us/sql-server/"
 ---
 

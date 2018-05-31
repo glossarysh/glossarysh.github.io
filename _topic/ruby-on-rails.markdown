@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Ruby on Rails"
-snippet: "Ruby on Rails is a set of tools for building websites using the Ruby programming language."
+description: "Ruby on Rails is a set of tools for building websites using the Ruby programming language."
 website: "https://rubyonrails.org/"
 ---
 

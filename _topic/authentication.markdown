@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Authentication"
-snippet: "Authentication is the process of verifying the identity of a user."
+description: "Authentication is the process of verifying the identity of a user."
 website: ""
 ---
 

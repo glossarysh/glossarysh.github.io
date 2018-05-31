@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Linux"
-snippet: "Linux is a freely available operating system created by Linus Torvalds."
+description: "Linux is a freely available operating system created by Linus Torvalds."
 website: "https://www.linuxfoundation.org/"
 ---
 

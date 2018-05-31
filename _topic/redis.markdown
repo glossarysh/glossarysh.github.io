@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Redis"
-snippet: "Redis is a program used for storing and serving data in a high performance manner."
+description: "Redis is a program used for storing and serving data in a high performance manner."
 website: "https://redis.io/"
 ---
 

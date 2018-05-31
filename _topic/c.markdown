@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "C"
-snippet: "C is a programming language that is often used for communicating with hardware."
+description: "C is a programming language that is often used for communicating with hardware."
 website: ""
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Client-Server"
-snippet: "Client-Server is a model for communication between two computer systems."
+description: "Client-Server is a model for communication between two computer systems."
 ---
 
 'Client-Server' is a model for communication between two computer systems. The role of the Server is to receive requests and act upon them, by either returning or modifying data. The role of the Client is to create and send these requests to the Server, often on behalf of a human user.

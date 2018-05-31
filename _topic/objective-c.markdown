@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Objective-C"
-snippet: "Objective-C is a programming language used for writing programs for Apple systems."
+description: "Objective-C is a programming language used for writing programs for Apple systems."
 website: "https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
 ---
 

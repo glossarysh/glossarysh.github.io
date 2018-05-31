@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "React.JS"
-snippet: React.JS is a library for building user interfaces.
+description: React.JS is a library for building user interfaces.
 ---
 
 React.JS is a [library](/library) for building [user interfaces](ui). It utilises [JavaScript](javascript) and a special [syntax](syntax) for describing a heirachy of components that make up the interface called JSX.

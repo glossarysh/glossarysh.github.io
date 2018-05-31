@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "ASP.NET"
-snippet: "ASP.NET is a software framework for building websites using Microsofts .NET platform."
+description: "ASP.NET is a software framework for building websites using Microsofts .NET platform."
 website: "https://www.asp.net/"
 ---
 

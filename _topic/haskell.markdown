@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Haskell"
-snippet: "Haskell is a programming language often used in academia to study functional programming."
+description: "Haskell is a programming language often used in academia to study functional programming."
 website: "https://www.haskell.org/"
 ---
 

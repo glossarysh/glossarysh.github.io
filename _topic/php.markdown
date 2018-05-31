@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "PHP"
-snippet: "PHP is a programming language used to build interactive websites."
+description: "PHP is a programming language used to build interactive websites."
 website: "https://secure.php.net/"
 ---
 

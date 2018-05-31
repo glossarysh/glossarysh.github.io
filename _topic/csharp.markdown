@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "C#"
-snippet: "C# is a programming language that runs on Microsofts .NET Framework."
+description: "C# is a programming language that runs on Microsofts .NET Framework."
 website: "https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework"
 ---
 

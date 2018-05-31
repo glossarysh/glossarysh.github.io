@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Scala"
-snippet: "Scala is a programming language designed to be compatible with Java whilst being a more modern alternative."
+description: "Scala is a programming language designed to be compatible with Java whilst being a more modern alternative."
 website: "https://scala-lang.org/"
 ---
 

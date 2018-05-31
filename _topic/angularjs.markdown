@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Angular.JS"
-snippet: "Angular.JS is a platform and set of tools for building large applications that run in the web browser."
+description: "Angular.JS is a platform and set of tools for building large applications that run in the web browser."
 website: "https://angular.io/"
 ---
 

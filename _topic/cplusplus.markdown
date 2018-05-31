@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "C++"
-snippet: "C++ is a programming language that is often used for building performance critical applications."
+description: "C++ is a programming language that is often used for building performance critical applications."
 website: "https://isocpp.org/"
 ---
 

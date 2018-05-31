@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "SQL"
-snippet: "SQL is a programming language for manipulating and retrieving data stored in a database."
+description: "SQL is a programming language for manipulating and retrieving data stored in a database."
 website: ""
 ---
 

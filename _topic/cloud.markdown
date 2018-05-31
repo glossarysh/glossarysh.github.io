@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Cloud"
-snippet: "The Cloud is a colloquialism used to describe buying internet technology services from specialist providers as an alternative to building those services yourself."
+description: "The Cloud is a colloquialism used to describe buying internet technology services from specialist providers as an alternative to building those services yourself."
 website: ""
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Source Code"
-snippet: "Source code is the text based representation of a computer program that is easy for a human to read and write."
+description: "Source code is the text based representation of a computer program that is easy for a human to read and write."
 website: ""
 ---
 

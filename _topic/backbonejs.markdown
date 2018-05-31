@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Backbone.JS"
-snippet: "Backbone.JS is a tool that makes it easier to build complex applications that run in a web browser."
+description: "Backbone.JS is a tool that makes it easier to build complex applications that run in a web browser."
 website: "http://backbonejs.org/"
 ---
 

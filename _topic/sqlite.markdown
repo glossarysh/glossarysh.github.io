@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "SQLite"
-snippet: "SQLite is a SQL database product that is designed to be simpler and use fewer resources than other database products."
+description: "SQLite is a SQL database product that is designed to be simpler and use fewer resources than other database products."
 website: "https://sqlite.org/index.html"
 ---
 

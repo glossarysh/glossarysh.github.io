@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Internet"
-snippet: "The Internet is a global network of computers that can communicate with each other."
+description: "The Internet is a global network of computers that can communicate with each other."
 website: ""
 ---
 

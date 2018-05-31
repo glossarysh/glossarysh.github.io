@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Open Source Software"
-snippet: "Open Source Software is software where the code that creates it is publicly available."
+description: "Open Source Software is software where the code that creates it is publicly available."
 website: ""
 ---
 

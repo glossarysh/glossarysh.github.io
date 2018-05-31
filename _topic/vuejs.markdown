@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Vue.JS"
-snippet: "Vue.JS is a library for building interactive user interfaces for websites."
+description: "Vue.JS is a library for building interactive user interfaces for websites."
 website: "https://vuejs.org/"
 ---
 

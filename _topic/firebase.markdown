@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Firebase"
-snippet: "Firebase is a service that makes it easier to create the infrastructure required to build and app."
+description: "Firebase is a service that makes it easier to create the infrastructure required to build and app."
 website: "https://firebase.google.com/"
 ---
 

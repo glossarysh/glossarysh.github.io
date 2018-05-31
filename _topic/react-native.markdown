@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "React Native"
-snippet: "React Native is a set of tools for building user interfaces in mobile applications"
+description: "React Native is a set of tools for building user interfaces in mobile applications"
 website: "https://facebook.github.io/react-native/"
 ---
 

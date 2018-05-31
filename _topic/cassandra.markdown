@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Cassandra"
-snippet: "Cassandra is a database product used for storing very large amounts of data."
+description: "Cassandra is a database product used for storing very large amounts of data."
 website: "https://cassandra.apache.org/"
 ---
 
