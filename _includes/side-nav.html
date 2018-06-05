@@ -1,11 +1,32 @@
+{% assign topics_by_letter = 
+    site.topic | group_by_exp: "topic", "topic.title | slice: 0, 1" | sort: "name" %}
+
 <div class="side-nav">
-{% for item in site.topic %}
+{% for letter in topics_by_letter %}
+    {% assign page_letter = page.title | slice: 0, 1 %}
+    {% assign group_letter = letter.name | slice: 0, 1 %}
+    {% assign first_in_group = letter.items.first %}
+
     <div>
-    {% if item.url == page.url %}
-        <div class="side-nav-active">{{ item.title }}</div>
+    {% if page_letter == group_letter %}
+        {{ group_letter }}
     {% else %}
-        <a href="{{ item.url }}">{{ item.title }}</a>
+        <a href="{{ first_in_group.url }}">{{ group_letter }}</a>
     {% endif %}
     </div>
+
+    {% if page_letter == group_letter %}
+    <div class="side-nav-active">
+        {% for item in letter.items %}
+        <div>
+            {% if item.url == page.url %}
+                <div class="side-nav-active">{{ item.title }}</div>
+            {% else %}
+                <a href="{{ item.url }}">{{ item.title }}</a>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
 {% endfor %}
 </div>
