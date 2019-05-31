@@ -1,8 +1,9 @@
 title: Glossary.sh
-github: https://github.com/
+github: https://github.com/glossarysh/glossarysh.github.io
 collections:
   topic:
     output: true
     permalink: /:name
 plugins:
   - jekyll-seo-tag
+typeform: https://charlie233905.typeform.com/to/bkE4HH
