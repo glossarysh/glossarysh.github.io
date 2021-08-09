@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: "Python"
-website: "https://pythonlang.org"
+website: "https://python.org"
 snipper: "Python is a programming languge known for its simplicity and wide range of uses."
 ---
 
